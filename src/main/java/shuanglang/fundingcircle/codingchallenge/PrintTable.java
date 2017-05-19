@@ -43,7 +43,7 @@ public class PrintTable {
         }
     }
 
-    public void printAsTable(BigInteger[][] table) {
+    void printAsTable(BigInteger[][] table) {
         for (int i = 0; i < table.length; i++) {
             for (int j = 0; j < table[i].length; j++) {
                 System.out.format("%1$-8s", table[i][j]);
