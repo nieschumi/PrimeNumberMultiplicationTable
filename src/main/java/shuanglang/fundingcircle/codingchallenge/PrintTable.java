@@ -51,4 +51,5 @@ public class PrintTable {
             System.out.println();
         }
     }
+    private void addInMaster() {}
 }
