@@ -52,4 +52,8 @@ public class PrintTable {
         }
     }
     private void addInMaster() {}
+
+    enum someEnum {
+        caseA, caseB, caseC
+    }
 }
