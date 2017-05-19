@@ -51,4 +51,6 @@ public class PrintTable {
             System.out.println();
         }
     }
+
+    void featureFunc2() {}
 }
